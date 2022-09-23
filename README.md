@@ -1,3 +1,3 @@
 # read-large-csv
-beste using dask.
+It is better to use dask.
 Datatable has less functions.
